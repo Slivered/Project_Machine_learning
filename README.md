@@ -1,5 +1,5 @@
 # Diamond price predictor.
-![Diamond](Images/Diamond.png)
+![Diamond](Images/Diamond2.jpg)
 
 ## Introduction.
 ---
