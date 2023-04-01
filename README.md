@@ -29,4 +29,9 @@ I droped depth and table aswell becouse they were not very related to the price 
 
 In this first model i did a robust standardization becouse it had many outliers that i didn't want to replace or erase.
 
+!["Model"](Images/Model.png)
+
+As we can see in this graph the least overfitted model is the Gradient Booster, and it has the best RMSE of them all. So i decided to use that model.
+
+
 
